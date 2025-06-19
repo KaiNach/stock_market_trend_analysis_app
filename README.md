@@ -15,12 +15,12 @@ Stock Market Manager is a modern and efficient Python-based application designed
 - View historical data with interactive line and candlestick graphs
 - Highlight top and bottom performing stocks side-by-side
 
-## Application set up
+## Application Set Up
 
 - Install dependencies using : pip install -r requirements.txt
 - Run main.py
 
-## Excel portfolio format
+## Excel Portfolio Format
 
 - Instrument, Qty & Avg. Cost columns are expected
 
